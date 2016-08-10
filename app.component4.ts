@@ -18,7 +18,7 @@ import { HeroService } from './hero.service';
     providers: [HeroService]
 
 
-    
+    // comment
 })
 
 export class AppComponent implements OnInit {
